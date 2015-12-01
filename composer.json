@@ -1,12 +1,12 @@
 {
-    "name": "vinkla/instagram",
+    "name": "iraxl/instagram",
     "description": "An Instagram bridge for Laravel",
     "license": "MIT",
     "keywords": ["laravel", "instagram", "images", "api", "image", "media", "facebook"],
     "authors": [
         {
-            "name": "Vincent Klaiber",
-            "email": "hello@vinkla.com"
+            "name": "Venky Rao",
+            "email": "venky@basementserver.com"
         }
     ],
     "require": {
