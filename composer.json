@@ -23,12 +23,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Vinkla\\Instagram\\": "src/"
+            "Iraxl\\Instagram\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Vinkla\\Tests\\Instagram\\": "tests/"
+            "Iraxl\\Tests\\Instagram\\": "tests/"
         }
     },
     "extra": {
